@@ -1,2 +1,2 @@
-# latex.github.io
+# ajonta.github.io
 LaTeX Studio
