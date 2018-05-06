@@ -263,7 +263,11 @@ ol.type li a {
 	border: 2px solid #a7c44c;
 	border-radius: 10px 0 10px 0;
 	text-transform: uppercase;
-	letter-spacing: 0.5px;
+
+	cursor: pointer;
+	display: inline-block;
+	-webkit-transition: all 0.36s;
+	transition: all 0.36s;
 }
 ol.type li a.active {
 	background: #a7c44c;
